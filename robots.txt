@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://ugg-pen-test.mudbank.uk/sitemap.xml
